@@ -4,7 +4,7 @@ myfp uses the [myfitnesspal](https://github.com/coddingtonbear/python-myfitnessp
 # Features
 Using users weight, height, age and activity level predict weight loss by calories in / calories out. This data is used to predict the date the user will reach target weight. This data can be graphically compared to actual weight loss data as below.
 
-![alt text](https://raw.githubusercontent.com/robertbsmith/mfpy/master/graphics.png"Graph view")
+![alt text](https://raw.githubusercontent.com/robertbsmith/mfpy/master/graphics.png "Graph view")
 
 # Limitations
 probably loads, only tested on my mfp account and only supports weights in kg from my mfp.
